@@ -38,7 +38,7 @@ ChatModule.initiateConnection(server).then((result)=>{
 If you are using ES2015, you can `import` the module instead:
 
 ```js
-import {ChatModule} from "@zubair-nazir/inapp-chat"
+import {ChatModule} from "@quokka-labs/chatmodule"
 ```
 When initializing app, make sure to keep you service config file of firebase in root folder of project
 
